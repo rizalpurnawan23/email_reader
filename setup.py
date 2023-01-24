@@ -7,7 +7,7 @@ setup(
     url= 'git@github.com:rizalpurnawan23/email_reader.git',
     author= 'Rizal Purnawan',
     author_email= 'rizalpurnawan23@gmail.com',
-    license= 'not licensed',
+    license= 'unlicense',
     packages= ['email_readers'],
     zip_safe= False
 )
