@@ -1,9 +1,5 @@
 from setuptools import setup
 
-from .email_reader.simple_reader import __version__
-
-__version__ = 'dev'
-
 setup(
     name= 'email_reader',
     version= __version__,
